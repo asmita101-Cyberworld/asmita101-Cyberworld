@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshmadakor0/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/asmita101-Cyberworld/Vulnerability-Management-Program)**
 - **[STIG Implementations (PowerShell)](https://github.com/joshmadakor0/stig-implementations)**
 
 ## 🚨 Threat Hunting and Security Operations
